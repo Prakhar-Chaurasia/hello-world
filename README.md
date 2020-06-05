@@ -1,3 +1,2 @@
 testreactions 
-javascript based reaction testing game.
-Simple!!
+javascript based reaction testing game. Just for fun!
